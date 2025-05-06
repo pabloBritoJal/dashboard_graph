@@ -87,3 +87,9 @@ em {
   border-radius: 10px;
   border: 2px solid #1b263b; 
 }
+
+.dashboard-box {
+  border-radius: 15.346px !important;
+  background: #FFF !important;
+  box-shadow: 1.279px 1.279px 2.558px 0px rgba(189, 189, 189, 0.30) inset, -1.279px -1.279px 2.558px 0px rgba(192, 192, 192, 0.50) inset, -6.394px 6.394px 12.788px 0px rgba(184, 184, 184, 0.20), 6.394px -6.394px 12.788px 0px rgba(189, 189, 189, 0.20), 6.394px 6.394px 16.625px 0px rgba(233, 233, 233, 0.90), -5.115px -5.115px 23.019px 6.394px #F1F1F1  !important;
+}

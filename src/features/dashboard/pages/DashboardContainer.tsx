@@ -22,7 +22,7 @@ const DashboardContainer = () => {
 
           {/* Componente */}
           {/* Top Right */}
-          <div className="relative rounded">
+          <div className="relative rounded bg-slate-200">
             <GraphCard />
           </div>
 
